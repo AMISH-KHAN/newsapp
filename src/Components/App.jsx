@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
-import Navbar from './Components/Navbar'
-import Home from './Components/Home'
-import Footer from './Components/Footer'
+import Navbar from './Navbar'
+import Home from './Home'
+import Footer from './Footer'
 
 export default class App extends Component {
   constructor(){
